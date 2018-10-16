@@ -5,6 +5,11 @@
     <title> Johnston Studios </title>
     </main>
   <style>
+    body{
+    background-color:black;
+    color:white;
+    font-family:monospace;
+    }
   font-size-class{
     font-size: 16px;
     }
